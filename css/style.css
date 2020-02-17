@@ -1,0 +1,12 @@
+body{
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.center{
+    min-height: 50vh;
+}
+
+.city{
+    min-height: 30vh;
+}

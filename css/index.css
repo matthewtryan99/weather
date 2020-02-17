@@ -1,0 +1,22 @@
+.image{
+    font:100px;
+    height: 50vh;
+}
+.search{
+    width: 400px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.submit{
+    width: 100px;
+    border-radius: 5px;
+    background-color: lightblue;
+    color: white;
+    border: none;
+}
+
+.img{
+    width: 650px;
+    border-radius: 5px;
+}
